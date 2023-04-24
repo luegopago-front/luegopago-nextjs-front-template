@@ -1,10 +1,10 @@
 import React from 'react'
+import { toast } from 'react-toastify'
 import { NextPage } from 'next'
 import type { AppProps } from 'next/app'
 import Head from 'next/head'
 import Script from 'next/script'
 
-import { toast } from 'react-toastify'
 import { SWRConfig } from 'swr'
 
 import setupAxios from '@/common/axios.interceptor'
