@@ -9,7 +9,7 @@ export default function Home() {
         width={144}
         height={144}
       />
-      <h1 className="from-lipa to-tamagotchi bg-gradient-to-r bg-clip-text text-4xl font-bold text-transparent">
+      <h1 className="bg-gradient-to-r from-lipa to-tamagotchi bg-clip-text text-4xl font-bold text-transparent">
         Welcome to Luegopago Next.js App!
       </h1>
     </div>
